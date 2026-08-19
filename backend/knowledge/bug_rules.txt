@@ -1,0 +1,1 @@
+Bug Reports: Always apologize for the inconvenience. Ask the user to provide their app version and device model.
